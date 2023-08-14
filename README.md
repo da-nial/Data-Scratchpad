@@ -9,4 +9,4 @@ Contents:
 - Linear regression implemented from scratch
 - Gaussian Elimination for Linear Equations
 - LU decomposition from scratch
-- Probability distributions
+- Chebyshev Inequality for Poisson, Binomial and Normal distribution
