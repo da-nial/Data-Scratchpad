@@ -1,5 +1,12 @@
-## Data Scratchpad
+# Data Scratchpad
 
-Occasionally I might add some simple scripts about popular data science concepts and technics here.
+Occasionally I might add some simple scripts about popular data science concepts and techniques here. The code samples
+are basic implementations for learning purposes - they may be messy, unreliable or outdated.
 
-The codes might be messy, unreliable and old.
+Contents:
+
+- K-Means clustering algorithm from scratch
+- Linear regression implemented from scratch
+- Gaussian Elimination for Linear Equations
+- LU decomposition from scratch
+- Probability distributions
