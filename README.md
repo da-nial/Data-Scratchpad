@@ -5,8 +5,10 @@ are basic implementations for learning purposes - they may be messy, unreliable 
 
 Contents:
 
-- K-Means clustering algorithm from scratch
-- Linear regression implemented from scratch
-- Gaussian Elimination for Linear Equations
-- LU decomposition from scratch
-- Chebyshev Inequality for Poisson, Binomial and Normal distribution
+- **K-Means clustering** algorithm from scratch
+- **Linear regression** implemented from scratch
+- **Gaussian Elimination** for Linear Equations
+- **LU decomposition** from scratch
+- **Chebyshev** Inequality for Poisson, Binomial and Normal distribution
+- **Captcha Solver**: A fastai model trained to solve captcha images from my university portal. Model weights are not
+  included to prevent misuse.
