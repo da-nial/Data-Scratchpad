@@ -14,3 +14,4 @@ Contents:
   included to prevent misuse.
 - **RC Entrance Task**: RC internship entrance was a fraud detection task on an employment website dataset. I
   experimented with `keras` and `fastai` neural nets for this task (once again!).
+- **CAM & GradCAM** from scratch
